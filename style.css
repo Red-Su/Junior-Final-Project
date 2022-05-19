@@ -1,0 +1,50 @@
+#rectangle {
+    width: 60vw;
+    height: 8vh;
+    background: black;
+    position: absolute;
+    margin-top: 70vh;
+    margin-left: 18vw;
+  }
+#top {
+    height: 75vh;
+    width: 35vw;
+    background-color: black;
+    margin-top: 1vh;
+    position: absolute;
+    margin-left: 30vw;
+}
+#red {
+    width: 35vw;
+    background-color: rgb(160, 11, 11);
+    position: absolute;
+    margin-left: 30vw;
+    height: 5vh;
+    margin-top: 60vh;
+}
+.pun {
+    position: relative;
+    margin-left: 35vw;
+    padding-top: 35vh;
+    
+}
+button {
+    margin-top: 50vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20vw;
+    height: 10vh;
+    font-size: 60px;
+    border: none;
+    background-color: cadetblue;
+}
+button:hover {
+    background-color: rgb(69, 114, 115);
+    cursor: pointer;
+}
+img {
+    position: absolute;
+    visibility: hidden;
+    margin-left: 26vw;
+}
