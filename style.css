@@ -24,12 +24,13 @@
 }
 .pun {
     position: relative;
-    margin-left: 35vw;
-    padding-top: 35vh;
-    
+    margin-left: 33vw;
+    padding-top: 30vh;
+    font-size: 30px;
+    width: 30vw;
 }
 button {
-    margin-top: 50vh;
+    margin-top: 45vh;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -47,4 +48,8 @@ img {
     position: absolute;
     visibility: hidden;
     margin-left: 26vw;
+}
+a {
+    text-decoration: none;
+    color: red;
 }
